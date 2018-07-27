@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ginotria/dbms1819-ecommerce-t0/issues"
   },
-  "homepage": "https://github.com/ginotria/dbms1819-ecommerce-t0#readme"
+  "homepage": "https://github.com/ginotria/dbms1819-ecommerce-t0#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "pg": "^7.4.3"
+  }
 }
